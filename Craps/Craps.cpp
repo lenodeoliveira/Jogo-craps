@@ -1,4 +1,3 @@
-// Figura 6.11: fig06_11.cpp
  // Simulação do jogo de dados craps.
 #include <iostream>
 using std::cout;
